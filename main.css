@@ -1,0 +1,26 @@
+body {
+  color : pink;
+  border: 4px solid pink;
+  font-family : courier new;
+  width : 1000px;
+  height: 1000px;
+}
+
+p {
+  /*THIS IS A COMMENT */
+  border: 2px dotted gray;
+  Padding: 5px
+  margin: 4px;
+}
+
+div {
+  border: 1px solid black;
+  width : 1000px;
+  /* float : left
+  */
+  display : inline-block;
+}
+
+.first {
+  background-color : #333
+}
